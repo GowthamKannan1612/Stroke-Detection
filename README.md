@@ -1,0 +1,2 @@
+# Stroke-Detection
+mini project
